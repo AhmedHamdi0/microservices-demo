@@ -1,0 +1,8 @@
+/home/ahmedhamdi/Z/microservices-demo/customer/src/main/java/com/demo/customer/CustomerApplication.java
+/home/ahmedhamdi/Z/microservices-demo/customer/src/main/java/com/demo/customer/CustomerController.java
+/home/ahmedhamdi/Z/microservices-demo/customer/src/main/java/com/demo/customer/Customer.java
+/home/ahmedhamdi/Z/microservices-demo/customer/src/main/java/com/demo/customer/CustomerService.java
+/home/ahmedhamdi/Z/microservices-demo/customer/src/main/java/com/demo/customer/CustomerRepository.java
+/home/ahmedhamdi/Z/microservices-demo/customer/src/main/java/com/demo/customer/FraudCheckResponse.java
+/home/ahmedhamdi/Z/microservices-demo/customer/src/main/java/com/demo/customer/CustomerRequest.java
+/home/ahmedhamdi/Z/microservices-demo/customer/src/main/java/com/demo/customer/CustomerConfig.java
